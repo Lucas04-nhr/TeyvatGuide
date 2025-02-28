@@ -8,3 +8,5 @@ dist
 .env.sh
 # vue-tsc --noEmit
 *.tsbuildinfo
+# macOS Finder
+.DS_Store
